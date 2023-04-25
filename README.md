@@ -24,8 +24,6 @@ Print the transformed features
 
 ## PROGRAM:
 ```
-NAME: S S YUGABHARATHI
-REG.NO:212220040183
 ```
 ```
 import numpy as np
